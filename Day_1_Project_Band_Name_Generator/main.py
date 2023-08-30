@@ -1,4 +1,4 @@
-#Write your code below this line 👇
+# Day 1 Project - Band Name Generator
 print("Welcome to the Band Name Generator.")
 city_name = input("What is the name of the city you grew up in?\n")
 pet_name = input("What is the name of your pet?\n")
